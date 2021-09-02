@@ -5,7 +5,7 @@ vaší škoey. Aplikace je pouze webový prohlížeč, funkce Edupage jsou toto�
 
 ## Instalace
 
-Aplikaci lze získat a spustit po [stažení aktuální verze](/releases/latest).
+Aplikaci lze získat a spustit po [stažení aktuální verze](https://github.com/JayJay666/edupage-desktop/releases/latest).
 
 > ### Aktuální podpora OS
 > Mac OS, ~~Windows 32 Bit~~, ~~Windows 64 Bit~~, ~~Linux~~
